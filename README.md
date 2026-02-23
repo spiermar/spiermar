@@ -9,6 +9,7 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 - ✍️ Open-source: profiling + visualization tooling
 - 📫 Contact: hello@martinspier.io
 - 🔗 LinkedIn: https://linkedin.com/in/martinspier
+- 📄 Resume: https://github.com/spiermar/resume.md
 - 🌐 Site: https://martinspier.io
 
 ## Badges
