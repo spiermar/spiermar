@@ -67,7 +67,7 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spiermar&show_icons=true&rank_icon=github)
+![SGitHub statss](./profile/stats.svg)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiermar&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=spiermar)
 
