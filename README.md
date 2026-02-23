@@ -68,8 +68,8 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 ## GitHub stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img style="width: auto; height: 180px;" src="./profile/stats.svg" /> 
-  <img style="width: auto; height: 180px;" src="https://streak-stats.demolab.com?user=spiermar" />
+  <img style="width: auto; height: 150px;" src="./profile/stats.svg" /> 
+  <img style="width: auto; height: 150px;" src="https://streak-stats.demolab.com?user=spiermar" />
 </div>
 
 <small>Last updated: Feb 2026</small>
