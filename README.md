@@ -32,15 +32,11 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 ![D3.js](https://img.shields.io/badge/D3.js-000?logo=d3dotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
 
----
-
 ## Now
 
 - Building **AI & cloud infrastructure** platforms that help teams ship faster with higher reliability
 - Investing in **developer productivity** (paved roads, platform enablement, internal tooling)
 - Staying hands-on with **profiling / flame graphs / performance analysis** tooling
-
----
 
 ## Featured projects
 
@@ -52,8 +48,6 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 
 - 🌡️ **d3-heatmap2** — heatmap visualization library  
   https://github.com/spiermar/d3-heatmap2
-
----
 
 ## Areas I care about
 
