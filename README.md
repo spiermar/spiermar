@@ -24,8 +24,8 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 ![AI](https://img.shields.io/badge/AI-000?logo=ai)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?logo=tensorflow)
 ![LLMs](https://img.shields.io/badge/LLMs-000?logo=openai)
-![opencode](https://img.shields.io/badge/opencode-000?logo=opencode)
-![openclaw](https://img.shields.io/badge/openclaw-000?logo=crab)
+![OpenCode](https://img.shields.io/badge/opencode-000?logo=opencode)
+![OpenClaw](https://img.shields.io/badge/openclaw-000?logo=openclaw)
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/Kafka-000?logo=apachekafka)
@@ -61,6 +61,7 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 
 ## Areas I care about
 
+- **AI & Agents**: agent-driven development, local LLMs, autonomous workflows, skill engineering
 - **Platform Engineering**: abstraction layers, golden paths, service ownership, operational readiness
 - **Developer Experience**: reducing friction, internal platforms, paved roads, measurable productivity
 - **Reliability**: SLOs, observability, incident learning loops, safe delivery
