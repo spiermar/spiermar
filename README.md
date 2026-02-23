@@ -4,9 +4,8 @@ VP of Engineering focused on **Platform Engineering**, **Cloud Infrastructure**,
 
 I build and scale organizations and platforms that reduce cognitive load, improve deployment velocity, and make systems observable and cost-efficient — from developer workflows to production runtime.
 
-- 💼 VP of Engineering @ Parasail (AI deployment + on-demand GPU compute)
-- 🧠 Interests: platform strategy, distributed systems, observability, profiling, FinOps, DX
-- ✍️ Open-source: profiling + visualization tooling
+- 💼 VP of Engineering @ Parasail (AI inference)
+- 🧠 Interests: AI, platform engineering, performance engineering, distributed systems, observability, DX
 - 📫 Contact: hello@martinspier.io
 - 🔗 LinkedIn: https://linkedin.com/in/martinspier
 - 📄 Resume: https://github.com/spiermar/resume.md
@@ -22,11 +21,17 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 ![Performance Engineering](https://img.shields.io/badge/Performance%20Engineering-000?logo=speedtest)
 ![Developer Experience](https://img.shields.io/badge/Developer%20Experience-000?logo=github)
 
+![AI](https://img.shields.io/badge/AI-000?logo=ai)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?logo=tensorflow)
+![LLMs](https://img.shields.io/badge/LLMs-000?logo=openai)
+![opencode](https://img.shields.io/badge/opencode-000?logo=opencode)
+![openclaw](https://img.shields.io/badge/openclaw-000?logo=crab)
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/Kafka-000?logo=apachekafka)
 ![Kong](https://img.shields.io/badge/Kong-000?logo=kong)
 ![Go](https://img.shields.io/badge/Go-000?logo=go)
+![Java](https://img.shields.io/badge/Java-000?logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![D3.js](https://img.shields.io/badge/D3.js-000?logo=d3dotjs)
@@ -35,7 +40,9 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 ## Now
 
 - Building **AI & cloud infrastructure** platforms that help teams ship faster with higher reliability
-- Investing in **developer productivity** (paved roads, platform enablement, internal tooling)
+- Creating **agent-driven development** workflows (custom skills, autonomous agent, dev environments)
+- Exploring **local LLM** deployments for privacy-focused AI assistance
+- Building **general purpose AI agents** for productivity workflows
 - Staying hands-on with **profiling / flame graphs / performance analysis** tooling
 
 ## Featured projects
@@ -48,6 +55,9 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 
 - 🌡️ **d3-heatmap2** — heatmap visualization library  
   https://github.com/spiermar/d3-heatmap2
+
+- 📦 **opencode-container** — containerized development environment  
+  https://github.com/spiermar/opencode-container
 
 ## Areas I care about
 
