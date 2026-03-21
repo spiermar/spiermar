@@ -1,8 +1,8 @@
 # Martin Spier 👋
 
-VP of Engineering focused on **Platform Engineering**, **Cloud Infrastructure**, **Developer Experience**, **Performance** and **Reliability**.
+Engineering Leader focused on **AI and Cloud Infrastructure**, **Performance and Reliability**, and **Platform Engineering**.
 
-I build and scale organizations and platforms that reduce cognitive load, improve deployment velocity, and make systems observable and cost-efficient — from developer workflows to production runtime.
+I lead engineering organizations centered on making complex systems faster, more reliable, and easier for engineers to build on.
 
 - 💼 VP of Engineering @ Parasail (AI inference)
 - 🧠 Interests: AI, platform engineering, performance engineering, distributed systems, observability, DX
@@ -39,11 +39,12 @@ I build and scale organizations and platforms that reduce cognitive load, improv
 
 ## Now
 
+- Scaling **engineering organizations** focused on complex engineering problems
+- Engineering leadership that drives **business impact and delivery velocity**
+- Making systems faster and more reliable through **performance and reliability** engineering
 - Building **AI & cloud infrastructure** platforms that help teams ship faster with higher reliability
-- Creating **agent-driven development** workflows (custom skills, autonomous agent, dev environments)
-- Exploring **local LLM** deployments for privacy-focused AI assistance
-- Building **general purpose AI agents** for productivity workflows
-- Staying hands-on with **profiling / flame graphs / performance analysis** tooling
+- Creating general purpose **AI agents and skills** for productivity and development workflows
+- Staying hands-on with **profiling, flame graphs, and performance tooling**
 
 ## Featured projects
 
