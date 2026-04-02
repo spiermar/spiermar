@@ -1,10 +1,10 @@
 # Martin Spier 👋
 
-Engineering Leader focused on **AI and Cloud Infrastructure**, **Performance and Reliability**, and **Platform Engineering**.
+Engineering Leader focused on **AI and Cloud Infrastructure**, **Platform Engineering**, **Performance and Reliability**.
 
 I lead engineering organizations centered on making complex systems faster, more reliable, and easier for engineers to build on.
 
-- 💼 VP of Engineering @ Parasail (AI inference)
+- 💼 ChatGPT Performance @ OpenAI
 - 🧠 Interests: AI, platform engineering, performance engineering, distributed systems, observability, DX
 - 📫 Contact: hello@martinspier.io
 - 🔗 LinkedIn: https://linkedin.com/in/martinspier
