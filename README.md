@@ -1,6 +1,6 @@
 # Martin Spier 👋
 
-Engineering Leader | **AI and Cloud Infrastructure**, **Platform Engineering**, **Performance and Reliability**.
+Engineering Leader | **AI and Cloud Infrastructure**, **Platform Engineering**, **Performance and Reliability**
 
 I lead engineering organizations centered on making complex systems faster, more reliable, and easier for engineers to build on.
 
